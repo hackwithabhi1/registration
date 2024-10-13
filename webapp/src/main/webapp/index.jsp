@@ -1,6 +1,8 @@
+<html><head><title>sevenmentor</title></head>
+	<body bgcolor=skyyellow>
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for SevenMentor</h1>
+    <h1>New user Register for SevenMentor 2024</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -35,3 +37,5 @@
    <h1> See You Again in Pune FCRoad SevenMentor </h1>
   
 </form>
+	</body>
+</html>
