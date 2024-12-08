@@ -1,4 +1,4 @@
-<html><head><title>sevenmentor</title></head>
+<html><head><title>PuneMentor</title></head>
 	<body bgcolor=skyyellow>
 <form action="action_page.php">
   <div class="container">
