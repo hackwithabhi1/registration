@@ -1,5 +1,5 @@
 <html><head><title>FCroad</title></head>
-	<body bgcolor=skyyellow>
+	<body bgcolor=yellow>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for SevenMentor 2024</h1>
